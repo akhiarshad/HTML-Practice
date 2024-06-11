@@ -1,0 +1,40 @@
+.p1{
+text-transform:uppercase;
+    text-decoration:none;
+    line-height:normal;
+    text-shadow:0dvh;
+
+}
+.p2{
+    text-emphasis-color:blue ;
+    line-height: 30px;
+word-spacing: 5px;
+text-shadow: 10px 10px orange;
+}
+legend{
+    background-color: black;
+    color: red;
+}
+.td1{
+    background-color: black ;
+    color: red;
+
+}
+.td2{
+    border: color;
+}
+input{
+    border-color: red;
+}
+button{
+    border-color: red;
+}
+legend{
+    border-color: red;
+}
+body{
+    background-color: aqua;
+    background-image: url(../Asset/alpha2.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
